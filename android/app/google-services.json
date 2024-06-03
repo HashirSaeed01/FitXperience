@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831709974627",
+    "firebase_url": "https://pleaseworkforme-79051-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pleaseworkforme-79051",
+    "storage_bucket": "pleaseworkforme-79051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831709974627:android:fd217dd81b991f0b66a856",
+        "android_client_info": {
+          "package_name": "com.company.fitX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831709974627-r6k8sc63a0vrn5copsdksf9k084fhoja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.fitX",
+            "certificate_hash": "d22ad563735ff1a0013ff445d39e1373668ec6af"
+          }
+        },
+        {
+          "client_id": "831709974627-kjtnmk4asocksgnqblh5gkbg5u73cqg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4NYag6j9BMSizcRo6BsslM6qJdr1QNdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831709974627-kjtnmk4asocksgnqblh5gkbg5u73cqg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
