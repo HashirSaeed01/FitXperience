@@ -1,1 +1,1 @@
-For this project, rather than focus on the logical aspects, I merely wish to showcase what I can do for the frontend. Resonsive page designs for Flutter, Providers to display exercises, SharedPreferences to ensure teh user's data is stored accordingly.
+Responsive page designs for Flutter, Providers to display exercises, SharedPreferences to ensure the user's data is stored accordingly.
